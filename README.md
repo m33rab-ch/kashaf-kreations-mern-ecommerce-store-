@@ -131,8 +131,8 @@ After seeding, go to: `http://localhost:5173/admin/login`
 
 | Field    | Value                              |
 |----------|------------------------------------|
-| Email    | admin@kashafskreations.com         |
-| Password | Admin@1234 (or what you set in .env)|
+| Email    | your-admin@example.com        |
+| Password | Ayour_secure_password         |
 
 ---
 
